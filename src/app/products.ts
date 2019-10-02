@@ -13,6 +13,11 @@ export const products = [
     name: 'Phone Standard',
     price: 299,
     description: ''
+  },
+  {
+    name: 'Samsung Galaxy S9+',
+    price: 979,
+    description: 'A great phone with one of the best cameras. IPhones can`t compare.'
   }
 ];
 
